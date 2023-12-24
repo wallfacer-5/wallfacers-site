@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+body {
+background: white;
+background: -webkit-linear-gradient(rgba(2,0,36,1) 0%, rgba(9,9,121,1) 75%, rgba(0,212,255,1) 100%);
+background: -o-linear-gradient(rgba(2,0,36,1) 0%, rgba(9,9,121,1) 75%, rgba(0,212,255,1) 100%);
+background: linear-gradient(rgba(2,0,36,1) 0%, rgba(9,9,121,1) 75%, rgba(0,212,255,1) 100%) no-repeat;
+background-size: 100%;
+}
+h1 {
+  color: white;
+  text-align: center;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-size: 120px;
+line-height: 500px;
+}
+h2 {
+  color: white;
+  text-align: center;
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-size: 80px;
+line-height: 500px;
+}
+p {
+  font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+  font-size: 20px;
+}
+
